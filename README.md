@@ -1,2 +1,2 @@
-# DalamudPlugins-
+# DalamudPlugins
 DalamudPlugins Repository
