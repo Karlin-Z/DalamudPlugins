@@ -34,5 +34,23 @@
     "DownloadLinkUpdate": "https://github.com/Karlin-Z/DalamudPlugins/raw/main/plugins/NinjutsuAssist/latest.zip",
     "DownloadCount": 0,
     "LastUpdated": "1618843696"
+  },
+  {
+    "Author": "XiYu",
+    "Name": "ChopBamboo",
+    "Description": "A plugin to get the skill range in The Slice is Right",
+    "InternalName": "ChopBamboo",
+    "AssemblyVersion": "1.0.0.0",
+    "RepoUrl": "",
+    "ApplicableVersion": "any",
+    "Tags": [ "Gold Saucer", "Slice is Right", "Xiyu" ],
+    "DalamudApiLevel": 3,
+    "DownloadLinkInstall": "https://github.com/Karlin-Z/DalamudPlugins/raw/main/plugins/ChopBamboo/latest.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkTesting": "https://github.com/Karlin-Z/DalamudPlugins/raw/main/plugins/ChopBamboo/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Karlin-Z/DalamudPlugins/raw/main/plugins/ChopBamboo/latest.zip",
+    "DownloadCount": 0,
+    "LastUpdated": "1618843696"
   }
 ]
