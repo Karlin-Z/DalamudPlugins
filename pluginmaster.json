@@ -9,11 +9,11 @@
     "ApplicableVersion": "any",
     "Tags": [ "PvP", "Auto", "XiYu" ],
     "DalamudApiLevel": 3,
-    "DownloadLinkInstall": "https://github.com/Karlin-Z/DalamudPlugins/blob/main/plugins/latest.zip",
+    "DownloadLinkInstall": "https://github.com/Karlin-Z/DalamudPlugins/blob/main/plugins/PvPSelector/latest.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkTesting": "https://github.com/Karlin-Z/DalamudPlugins/blob/main/plugins/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Karlin-Z/DalamudPlugins/blob/main/plugins/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Karlin-Z/DalamudPlugins/blob/main/plugins/PvPSelector/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Karlin-Z/DalamudPlugins/blob/main/plugins/PvPSelector/latest.zip",
     "DownloadCount": 0,
     "LastUpdated": "1618843696"
   }
