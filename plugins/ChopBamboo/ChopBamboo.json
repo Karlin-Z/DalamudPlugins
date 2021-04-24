@@ -3,7 +3,7 @@
   "Name": "ChopBamboo",
   "Description": "A plugin to get the skill range in The Slice is Right",
   "InternalName": "ChopBamboo",
-  "AssemblyVersion": "1.0.0.0",
+  "AssemblyVersion": "1.0.0.1",
   "RepoUrl": "",
   "ApplicableVersion": "any",
   "Tags": [ "Gold Saucer", "Slice is Right", "Xiyu" ],
