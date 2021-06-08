@@ -3,7 +3,7 @@
   "Name": "NinjutsuAssist",
   "Description": "A plugin to use ninjutsu in a command",
   "InternalName": "NinjutsuAssist",
-  "AssemblyVersion": "1.2.1.0",
+  "AssemblyVersion": "1.2.1.1",
   "RepoUrl": "",
   "ApplicableVersion": "any",
   "Tags": [ "Ninjutsu", "Ninjia", "Xiyu" ],
