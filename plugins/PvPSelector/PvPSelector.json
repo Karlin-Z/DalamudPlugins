@@ -3,7 +3,7 @@
   "Name": "PvPSelector",
   "Description": "A plugin that allows you to select the enemy with the lowest currentHp in your range.",
   "InternalName": "PvPSelector",
-  "AssemblyVersion": "1.0.1.1",
+  "AssemblyVersion": "1.0.2.0",
   "RepoUrl": "",
   "ApplicableVersion": "any",
   "Tags": [ "PvP", "Auto", "XiYu" ],
