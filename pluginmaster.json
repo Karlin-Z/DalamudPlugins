@@ -1,34 +1,24 @@
 [
   {
-    "Testing": false,
-    "InstalledFromUrl": null,
     "Author": "XiYu",
     "Name": "Gold Saucer Assist",
-    "Punchline": "金碟游乐场",
-    "Description": "A plugin to get the skill range in The Slice is Right",
-    "Tags": [ "Gold Saucer", "Slice is Right", "Xiyu" ],
-    "IsHide": false,
-    "InternalName": "GoldSaucerAssist",
-    "AssemblyVersion": "1.0.0.0",
-    "TestingAssemblyVersion": null,
-    "IsTestingExclusive": false,
-    "RepoUrl": null,
+    "Description": "A plugin to use ninjutsu in a command",
+    "InternalName": "NinjutsuAssist",
+    "AssemblyVersion": "1.3.0.0",
+    "RepoUrl": "",
     "ApplicableVersion": "any",
+    "Tags": [ "Gold Saucer", "Slice is Right", "Xiyu" ],
     "DalamudApiLevel": 3,
+    "Testing": false,
+    "InstalledFromUrl": null,
+    "Punchline": "Gold Saucer",
+    "DownloadLinkInstall": "https://github.com/Karlin-Z/DalamudPlugins/raw/Api4/plugins/GoldSaucerAssist/latest.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkTesting": "https://github.com/Karlin-Z/DalamudPlugins/raw/Api4/plugins/GoldSaucerAssist/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Karlin-Z/DalamudPlugins/raw/Api4/plugins/GoldSaucerAssist/latest.zip",
     "DownloadCount": 0,
-    "LastUpdate": 0,
-    "DownloadLinkInstall": null,
-    "DownloadLinkUpdate": null,
-    "DownloadLinkTesting": null,
-    "LoadPriority": 0,
-    "ImageUrls": [
-      //"https://github.com/goaaats/dalamud-owo/raw/master/images/promo1.png",
-      //"https://github.com/goaaats/dalamud-owo/raw/master/images/promo2.png",
-      //"https://github.com/goaaats/dalamud-owo/raw/master/images/promo2.png",
-      //"https://github.com/goaaats/dalamud-owo/raw/master/images/promo2.png",
-      //"https://github.com/goaaats/dalamud-owo/raw/master/images/promo2.png"
-    ]
-    //"IconUrl": "https://github.com/goaaats/dalamud-owo/raw/master/images/icon.png"
+    "LastUpdated": "1618843696"
   },
   {
     "Author": "XiYu",
@@ -42,24 +32,14 @@
     "DalamudApiLevel": 3,
     "Testing": false,
     "InstalledFromUrl": null,
-    "Punchline": "PvP选人辅助",
+    "Punchline": "PvP helper",
+    "DownloadLinkInstall": "https://github.com/Karlin-Z/DalamudPlugins/raw/Api4/plugins/PvPSelector/latest.zip",
     "IsHide": false,
-    "TestingAssemblyVersion": null,
     "IsTestingExclusive": false,
+    "DownloadLinkTesting": "https://github.com/Karlin-Z/DalamudPlugins/raw/Api4/plugins/PvPSelector/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Karlin-Z/DalamudPlugins/raw/Api4/plugins/PvPSelector/latest.zip",
     "DownloadCount": 0,
-    "LastUpdate": 0,
-    "DownloadLinkInstall": null,
-    "DownloadLinkUpdate": null,
-    "DownloadLinkTesting": null,
-    "LoadPriority": 0,
-    "ImageUrls": [
-      //"https://github.com/goaaats/dalamud-owo/raw/master/images/promo1.png",
-      //"https://github.com/goaaats/dalamud-owo/raw/master/images/promo2.png",
-      //"https://github.com/goaaats/dalamud-owo/raw/master/images/promo2.png",
-      //"https://github.com/goaaats/dalamud-owo/raw/master/images/promo2.png",
-      //"https://github.com/goaaats/dalamud-owo/raw/master/images/promo2.png"
-    ]
-    //"IconUrl": "https://github.com/goaaats/dalamud-owo/raw/master/images/icon.png"
+    "LastUpdated": "1618843696"
   },
   {
     "Author": "XiYu",
@@ -73,24 +53,14 @@
     "DalamudApiLevel": 3,
     "Testing": false,
     "InstalledFromUrl": null,
-    "Punchline": "搓忍术",
+    "Punchline": "Ninjutsu Assist",
+    "DownloadLinkInstall": "https://github.com/Karlin-Z/DalamudPlugins/raw/Api4/plugins/NinjutsuAssist/latest.zip",
     "IsHide": false,
-    "TestingAssemblyVersion": null,
     "IsTestingExclusive": false,
+    "DownloadLinkTesting": "https://github.com/Karlin-Z/DalamudPlugins/raw/Api4/plugins/NinjutsuAssist/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Karlin-Z/DalamudPlugins/raw/Api4/plugins/NinjutsuAssist/latest.zip",
     "DownloadCount": 0,
-    "LastUpdate": 0,
-    "DownloadLinkInstall": null,
-    "DownloadLinkUpdate": null,
-    "DownloadLinkTesting": null,
-    "LoadPriority": 0,
-    "ImageUrls": [
-      //"https://github.com/goaaats/dalamud-owo/raw/master/images/promo1.png",
-      //"https://github.com/goaaats/dalamud-owo/raw/master/images/promo2.png",
-      //"https://github.com/goaaats/dalamud-owo/raw/master/images/promo2.png",
-      //"https://github.com/goaaats/dalamud-owo/raw/master/images/promo2.png",
-      //"https://github.com/goaaats/dalamud-owo/raw/master/images/promo2.png"
-    ]
-    //"IconUrl": "https://github.com/goaaats/dalamud-owo/raw/master/images/icon.png"
+    "LastUpdated": "1618843696"
   },
   {
     "Author": "XiYu",
@@ -104,23 +74,13 @@
     "DalamudApiLevel": 3,
     "Testing": false,
     "InstalledFromUrl": null,
-    "Punchline": "碰撞显示",
+    "Punchline": "hit box",
+    "DownloadLinkInstall": "https://github.com/Karlin-Z/DalamudPlugins/raw/Api4/plugins/PixelPerfectEx/latest.zip",
     "IsHide": false,
-    "TestingAssemblyVersion": null,
     "IsTestingExclusive": false,
+    "DownloadLinkTesting": "https://github.com/Karlin-Z/DalamudPlugins/raw/Api4/plugins/PixelPerfectEx/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Karlin-Z/DalamudPlugins/raw/Api4/plugins/PixelPerfectEx/latest.zip",
     "DownloadCount": 0,
-    "LastUpdate": 0,
-    "DownloadLinkInstall": null,
-    "DownloadLinkUpdate": null,
-    "DownloadLinkTesting": null,
-    "LoadPriority": 0,
-    "ImageUrls": [
-      //"https://github.com/goaaats/dalamud-owo/raw/master/images/promo1.png",
-      //"https://github.com/goaaats/dalamud-owo/raw/master/images/promo2.png",
-      //"https://github.com/goaaats/dalamud-owo/raw/master/images/promo2.png",
-      //"https://github.com/goaaats/dalamud-owo/raw/master/images/promo2.png",
-      //"https://github.com/goaaats/dalamud-owo/raw/master/images/promo2.png"
-    ]
-    //"IconUrl": "https://github.com/goaaats/dalamud-owo/raw/master/images/icon.png"
+    "LastUpdated": "1618843696"
   }
 ]

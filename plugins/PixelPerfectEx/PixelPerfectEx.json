@@ -10,22 +10,5 @@
   "DalamudApiLevel": 3,
   "Testing": false,
   "InstalledFromUrl": null,
-  "Punchline": "Åö×²ÏÔÊ¾",
-  "IsHide": false,
-  "TestingAssemblyVersion": null,
-  "IsTestingExclusive": false,
-  "DownloadCount": 0,
-  "LastUpdate": 0,
-  "DownloadLinkInstall": null,
-  "DownloadLinkUpdate": null,
-  "DownloadLinkTesting": null,
-  "LoadPriority": 0,
-  "ImageUrls": [
-    //"https://github.com/goaaats/dalamud-owo/raw/master/images/promo1.png",
-    //"https://github.com/goaaats/dalamud-owo/raw/master/images/promo2.png",
-    //"https://github.com/goaaats/dalamud-owo/raw/master/images/promo2.png",
-    //"https://github.com/goaaats/dalamud-owo/raw/master/images/promo2.png",
-    //"https://github.com/goaaats/dalamud-owo/raw/master/images/promo2.png"
-  ]
-  //"IconUrl": "https://github.com/goaaats/dalamud-owo/raw/master/images/icon.png"
+  "Punchline": "hit box"
 }

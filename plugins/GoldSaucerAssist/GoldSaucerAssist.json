@@ -1,32 +1,14 @@
-
 {
-  "Testing": false,
-  "InstalledFromUrl": null,
   "Author": "XiYu",
   "Name": "Gold Saucer Assist",
-  "Punchline": "½ðµúÓÎÀÖ³¡",
-  "Description": "A plugin to get the skill range in The Slice is Right",
-  "Tags": [ "Gold Saucer", "Slice is Right", "Xiyu" ],
-  "IsHide": false,
-  "InternalName": "GoldSaucerAssist",
-  "AssemblyVersion": "1.0.0.0",
-  "TestingAssemblyVersion": null,
-  "IsTestingExclusive": false,
-  "RepoUrl": null,
+  "Description": "A plugin to use ninjutsu in a command",
+  "InternalName": "NinjutsuAssist",
+  "AssemblyVersion": "1.3.0.0",
+  "RepoUrl": "",
   "ApplicableVersion": "any",
+  "Tags": [ "Gold Saucer", "Slice is Right", "Xiyu" ],
   "DalamudApiLevel": 3,
-  "DownloadCount": 0,
-  "LastUpdate": 0,
-  "DownloadLinkInstall": null,
-  "DownloadLinkUpdate": null,
-  "DownloadLinkTesting": null,
-  "LoadPriority": 0,
-  "ImageUrls": [
-    //"https://github.com/goaaats/dalamud-owo/raw/master/images/promo1.png",
-    //"https://github.com/goaaats/dalamud-owo/raw/master/images/promo2.png",
-    //"https://github.com/goaaats/dalamud-owo/raw/master/images/promo2.png",
-    //"https://github.com/goaaats/dalamud-owo/raw/master/images/promo2.png",
-    //"https://github.com/goaaats/dalamud-owo/raw/master/images/promo2.png"
-  ],
-  //"IconUrl": "https://github.com/goaaats/dalamud-owo/raw/master/images/icon.png"
+  "Testing": false,
+  "InstalledFromUrl": null,
+  "Punchline": "Gold Saucer"
 }
