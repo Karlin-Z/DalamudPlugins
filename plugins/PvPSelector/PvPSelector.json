@@ -3,9 +3,29 @@
   "Name": "PvPSelector",
   "Description": "A plugin that allows you to select the enemy with the lowest currentHp in your range.",
   "InternalName": "PvPSelector",
-  "AssemblyVersion": "1.0.3.0",
+  "AssemblyVersion": "1.1.0.0",
   "RepoUrl": "",
   "ApplicableVersion": "any",
   "Tags": [ "PvP", "Auto", "XiYu" ],
-  "DalamudApiLevel": 3
+  "DalamudApiLevel": 3,
+  "Testing": false,
+  "InstalledFromUrl": null,
+  "Punchline": "PvPÑ¡ÈË¸¨Öú",
+  "IsHide": false,
+  "TestingAssemblyVersion": null,
+  "IsTestingExclusive": false,
+  "DownloadCount": 0,
+  "LastUpdate": 0,
+  "DownloadLinkInstall": null,
+  "DownloadLinkUpdate": null,
+  "DownloadLinkTesting": null,
+  "LoadPriority": 0,
+  "ImageUrls": [
+    //"https://github.com/goaaats/dalamud-owo/raw/master/images/promo1.png",
+    //"https://github.com/goaaats/dalamud-owo/raw/master/images/promo2.png",
+    //"https://github.com/goaaats/dalamud-owo/raw/master/images/promo2.png",
+    //"https://github.com/goaaats/dalamud-owo/raw/master/images/promo2.png",
+    //"https://github.com/goaaats/dalamud-owo/raw/master/images/promo2.png"
+  ]
+  //"IconUrl": "https://github.com/goaaats/dalamud-owo/raw/master/images/icon.png"
 }

@@ -1,19 +1,20 @@
+
 {
-  "Author": "XiYu",
-  "Name": "PixelPerfectEx",
-  "Description": "A plugin that allows you to draw ring and line on player or target.",
-  "InternalName": "PixelPerfectEx",
-  "AssemblyVersion": "1.2.0.0",
-  "RepoUrl": "",
-  "ApplicableVersion": "any",
-  "Tags": [ "Ring", "TargetAssist", "XiYu" ],
-  "DalamudApiLevel": 3,
   "Testing": false,
   "InstalledFromUrl": null,
-  "Punchline": "碰撞显示",
+  "Author": "XiYu",
+  "Name": "Gold Saucer Assist",
+  "Punchline": "金碟游乐场",
+  "Description": "A plugin to get the skill range in The Slice is Right",
+  "Tags": [ "Gold Saucer", "Slice is Right", "Xiyu" ],
   "IsHide": false,
+  "InternalName": "GoldSaucerAssist",
+  "AssemblyVersion": "1.0.0.0",
   "TestingAssemblyVersion": null,
   "IsTestingExclusive": false,
+  "RepoUrl": null,
+  "ApplicableVersion": "any",
+  "DalamudApiLevel": 3,
   "DownloadCount": 0,
   "LastUpdate": 0,
   "DownloadLinkInstall": null,
@@ -26,6 +27,6 @@
     //"https://github.com/goaaats/dalamud-owo/raw/master/images/promo2.png",
     //"https://github.com/goaaats/dalamud-owo/raw/master/images/promo2.png",
     //"https://github.com/goaaats/dalamud-owo/raw/master/images/promo2.png"
-  ]
+  ],
   //"IconUrl": "https://github.com/goaaats/dalamud-owo/raw/master/images/icon.png"
 }
