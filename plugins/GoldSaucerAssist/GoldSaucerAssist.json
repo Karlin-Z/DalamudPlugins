@@ -7,7 +7,7 @@
   "RepoUrl": "",
   "ApplicableVersion": "any",
   "Tags": [ "Gold Saucer", "Slice is Right", "Xiyu" ],
-  "DalamudApiLevel": 3,
+  "DalamudApiLevel": 4,
   "Testing": false,
   "InstalledFromUrl": null,
   "Punchline": "Gold Saucer"

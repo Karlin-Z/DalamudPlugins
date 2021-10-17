@@ -7,7 +7,7 @@
   "RepoUrl": "",
   "ApplicableVersion": "any",
   "Tags": [ "PvP", "Auto", "XiYu" ],
-  "DalamudApiLevel": 3,
+  "DalamudApiLevel": 4,
   "Testing": false,
   "InstalledFromUrl": null,
   "Punchline": "PvP helper"

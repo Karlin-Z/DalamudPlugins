@@ -7,7 +7,7 @@
   "RepoUrl": "",
   "ApplicableVersion": "any",
   "Tags": [ "Ninjutsu", "Ninjia", "Xiyu" ],
-  "DalamudApiLevel": 3,
+  "DalamudApiLevel": 4,
   "Testing": false,
   "InstalledFromUrl": null,
   "Punchline": "Ninjutsu Assist"
