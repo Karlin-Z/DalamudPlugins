@@ -3,7 +3,7 @@
   "Name": "Gold Saucer Assist",
   "Description": "A plugin for Gold Saucer",
   "InternalName": "GoldSaucerAssist",
-  "AssemblyVersion": "1.3.0.0",
+  "AssemblyVersion": "1.3.0.1",
   "RepoUrl": "",
   "ApplicableVersion": "any",
   "Tags": [ "Gold Saucer", "Slice is Right", "Xiyu" ],
