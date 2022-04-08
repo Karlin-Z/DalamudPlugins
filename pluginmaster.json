@@ -47,7 +47,7 @@
     "Name": "JobAssist",
     "Description": "A plugin to do something that you always forget",
     "InternalName": "JobAssist",
-    "AssemblyVersion": "2.0.0.1",
+    "AssemblyVersion": "2.0.0.3",
     "RepoUrl": "",
     "ApplicableVersion": "any",
     "Tags": [ "Ninjutsu", "Assist", "Xiyu" ],
