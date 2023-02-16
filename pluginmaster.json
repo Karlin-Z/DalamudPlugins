@@ -1,10 +1,9 @@
 [
-
   {
     "Author": "Karlin",
     "Name": "PvPSelector",
     "InternalName": "PvPSelector",
-    "AssemblyVersion": "2.1.5.4",
+    "AssemblyVersion": "2.1.5.14",
     "Description": "A plugin that allows you to select the enemy with the lowest currentHp in your range.",
     "ApplicableVersion": "any",
     "RepoUrl": "",
@@ -13,14 +12,14 @@
       "Auto",
       "Karlin"
     ],
-    "DalamudApiLevel": 7,
+    "DalamudApiLevel": 8,
     "LoadRequiredState": 0,
     "LoadSync": false,
     "LoadPriority": 0,
     "Punchline": "PvP helper",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/Karlin-Z/DalamudPlugins/raw/main/plugins/PvPSelector/latest.zip",
-    "DownloadLinkTesting": "https://github.com/Karlin-Z/DalamudPlugins/raw/main/plugins/PvPSelector/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Karlin-Z/DalamudPlugins/raw/main/plugins/PvPSelector/latest.zip"
+    "DownloadLinkInstall": "https://github.com/Karlin-Z/DalamudPlugins/raw/Global/plugins/PvPSelector/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Karlin-Z/DalamudPlugins/raw/Global/plugins/PvPSelector/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Karlin-Z/DalamudPlugins/raw/Global/plugins/PvPSelector/latest.zip"
   }
 ]
