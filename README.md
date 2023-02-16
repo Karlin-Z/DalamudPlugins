@@ -1,2 +1,0 @@
-# DalamudPlugins
-DalamudPlugins Repository
