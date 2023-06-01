@@ -51,7 +51,7 @@
     "RepoUrl": "",
     "ApplicableVersion": "any",
     "Tags": [ "Ninjutsu", "Assist", "Xiyu" ],
-    "DalamudApiLevel": 7,
+    "DalamudApiLevel": 8,
     "Testing": false,
     "InstalledFromUrl": null,
     "Punchline": "Job Assist",
