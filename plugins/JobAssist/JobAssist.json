@@ -1,14 +1,21 @@
 {
   "Author": "XiYu",
   "Name": "JobAssist",
-  "Description": "A plugin to do something that you always forget",
   "InternalName": "JobAssist",
-  "AssemblyVersion": "2.2.0.3",
-  "RepoUrl": "",
+  "AssemblyVersion": "2.2.0.10",
+  "Description": "A plugin to do something that you always forget",
   "ApplicableVersion": "any",
-  "Tags": [ "Ninjutsu", "Assist", "Xiyu" ],
-  "DalamudApiLevel": 7,
-  "Testing": false,
-  "InstalledFromUrl": null,
-  "Punchline": "Job Assist"
+  "RepoUrl": "",
+  "Tags": [
+    "Ninjutsu",
+    "Assist",
+    "Xiyu"
+  ],
+  "DalamudApiLevel": 8,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "Job Assist",
+  "AcceptsFeedback": true
 }
