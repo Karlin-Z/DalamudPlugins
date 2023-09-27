@@ -2,7 +2,7 @@
   "Author": "Karlin",
   "Name": "PixelPerfectEx",
   "InternalName": "PixelPerfectEx",
-  "AssemblyVersion": "3.0.1.1",
+  "AssemblyVersion": "3.0.2.0",
   "Description": "A plugin that allows you to draw ring and line on player or target.",
   "ApplicableVersion": "any",
   "RepoUrl": "",
