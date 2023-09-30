@@ -69,7 +69,7 @@
     "Name": "PixelPerfectEx",
     "Description": "A plugin that allows you to draw ring and line on player or target.",
     "InternalName": "PixelPerfectEx",
-    "AssemblyVersion": "3.0.2.0",
+    "AssemblyVersion": "3.0.3.0",
     "RepoUrl": "",
     "ApplicableVersion": "any",
     "Tags": [ "Ring", "TargetAssist", "XiYu" ],
