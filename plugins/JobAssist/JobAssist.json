@@ -2,7 +2,7 @@
   "Author": "XiYu",
   "Name": "JobAssist",
   "InternalName": "JobAssist",
-  "AssemblyVersion": "2.2.0.10",
+  "AssemblyVersion": "2.2.1.0",
   "Description": "A plugin to do something that you always forget",
   "ApplicableVersion": "any",
   "RepoUrl": "",
@@ -11,7 +11,7 @@
     "Assist",
     "Xiyu"
   ],
-  "DalamudApiLevel": 8,
+  "DalamudApiLevel": 9,
   "LoadRequiredState": 0,
   "LoadSync": false,
   "CanUnloadAsync": false,
