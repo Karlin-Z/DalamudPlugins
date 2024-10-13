@@ -36,6 +36,10 @@
     "CanUnloadAsync": false,
     "LoadPriority": 0,
     "Punchline": "A toy",
-    "AcceptsFeedback": true
+    "AcceptsFeedback": true,
+    "DownloadLinkInstall": "https://github.com/Karlin-Z/DalamudPlugins/raw/main/plugins/KodakkuAssist/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Karlin-Z/DalamudPlugins/raw/main/plugins/KodakkuAssist/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Karlin-Z/DalamudPlugins/raw/main/plugins/KodakkuAssist/latest.zip"
+
   }
 ]
