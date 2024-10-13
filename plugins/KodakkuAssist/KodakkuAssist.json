@@ -1,0 +1,15 @@
+{
+  "Author": "Karlin",
+  "Name": "KodakkuAssist",
+  "InternalName": "KodakkuAssist",
+  "AssemblyVersion": "0.1.0.0",
+  "Description": "A toy.",
+  "ApplicableVersion": "any",
+  "DalamudApiLevel": 10,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "A toy",
+  "AcceptsFeedback": true
+}

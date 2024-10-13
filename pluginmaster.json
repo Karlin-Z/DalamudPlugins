@@ -22,5 +22,20 @@
     "DownloadLinkInstall": "https://github.com/Karlin-Z/DalamudPlugins/raw/main/plugins/PvPSelector/latest.zip",
     "DownloadLinkTesting": "https://github.com/Karlin-Z/DalamudPlugins/raw/main/plugins/PvPSelector/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Karlin-Z/DalamudPlugins/raw/main/plugins/PvPSelector/latest.zip"
+  },
+  {
+    "Author": "Karlin",
+    "Name": "KodakkuAssist",
+    "InternalName": "KodakkuAssist",
+    "AssemblyVersion": "0.1.0.0",
+    "Description": "A toy.",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 10,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "A toy",
+    "AcceptsFeedback": true
   }
 ]
