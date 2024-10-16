@@ -4,7 +4,7 @@
     "Author": "Karlin",
     "Name": "PvPSelector",
     "InternalName": "PvPSelector",
-    "AssemblyVersion": "2.1.6.10",
+    "AssemblyVersion": "2.1.7.0",
     "Description": "A plugin that allows you to select the enemy with the lowest currentHp in your range.",
     "ApplicableVersion": "any",
     "RepoUrl": "",
