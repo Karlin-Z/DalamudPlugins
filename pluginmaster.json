@@ -37,6 +37,7 @@
     "LoadPriority": 0,
     "Punchline": "A toy",
     "AcceptsFeedback": true,
+    "IconUrl": "https://raw.githubusercontent.com/Karlin-Z/DalamudPlugins/main/plugins/KodakkuAssist/icon.png",
     "DownloadLinkInstall": "https://github.com/Karlin-Z/DalamudPlugins/raw/main/plugins/KodakkuAssist/latest.zip",
     "DownloadLinkTesting": "https://github.com/Karlin-Z/DalamudPlugins/raw/main/plugins/KodakkuAssist/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Karlin-Z/DalamudPlugins/raw/main/plugins/KodakkuAssist/latest.zip"
