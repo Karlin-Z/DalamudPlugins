@@ -1,0 +1,20 @@
+{
+  "Author": "Karlin",
+  "Name": "PixelPerfectEx",
+  "InternalName": "PixelPerfectEx",
+  "AssemblyVersion": "3.0.6.31",
+  "Description": "A plugin that allows you to draw ring and line on player or target.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "",
+  "Tags": [
+    "Ring",
+    "TargetAssist",
+    "Karlin"
+  ],
+  "DalamudApiLevel": 10,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "LoadPriority": 0,
+  "Punchline": "hit box",
+  "AcceptsFeedback": true
+}
