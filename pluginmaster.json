@@ -1,28 +1,4 @@
 [
-
-  {
-    "Author": "Karlin",
-    "Name": "PvPSelector",
-    "InternalName": "PvPSelector",
-    "AssemblyVersion": "2.1.7.0",
-    "Description": "A plugin that allows you to select the enemy with the lowest currentHp in your range.",
-    "ApplicableVersion": "any",
-    "RepoUrl": "",
-    "Tags": [
-      "PvP",
-      "Auto",
-      "Karlin"
-    ],
-    "DalamudApiLevel": 10,
-    "LoadRequiredState": 0,
-    "LoadSync": false,
-    "LoadPriority": 0,
-    "Punchline": "PvP helper",
-    "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/Karlin-Z/DalamudPlugins/raw/main/plugins/PvPSelector/latest.zip",
-    "DownloadLinkTesting": "https://github.com/Karlin-Z/DalamudPlugins/raw/main/plugins/PvPSelector/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Karlin-Z/DalamudPlugins/raw/main/plugins/PvPSelector/latest.zip"
-  },
   {
     "Author": "Karlin",
     "Name": "KodakkuAssist",
@@ -30,16 +6,17 @@
     "AssemblyVersion": "0.1.13.0",
     "Description": "A toy.",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": 10,
+    "DalamudApiLevel": 11,
     "LoadRequiredState": 0,
     "LoadSync": false,
     "CanUnloadAsync": false,
     "LoadPriority": 0,
     "Punchline": "A toy",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/Karlin-Z/DalamudPlugins/raw/main/plugins/KodakkuAssist/latest.zip",
-    "DownloadLinkTesting": "https://github.com/Karlin-Z/DalamudPlugins/raw/main/plugins/KodakkuAssist/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Karlin-Z/DalamudPlugins/raw/main/plugins/KodakkuAssist/latest.zip"
+    "IconUrl": "https://raw.githubusercontent.com/Karlin-Z/DalamudPlugins/main/plugins/KodakkuAssist/icon.png",
+    "DownloadLinkInstall": "https://github.com/Karlin-Z/DalamudPlugins/raw/API11/plugins/KodakkuAssist/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Karlin-Z/DalamudPlugins/raw/API11/plugins/KodakkuAssist/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Karlin-Z/DalamudPlugins/raw/API11/plugins/KodakkuAssist/latest.zip"
 
   }
 ]
