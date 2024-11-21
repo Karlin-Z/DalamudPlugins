@@ -40,6 +40,26 @@
     "DownloadLinkInstall": "https://github.com/Karlin-Z/DalamudPlugins/raw/main/plugins/KodakkuAssist/latest.zip",
     "DownloadLinkTesting": "https://github.com/Karlin-Z/DalamudPlugins/raw/main/plugins/KodakkuAssist/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Karlin-Z/DalamudPlugins/raw/main/plugins/KodakkuAssist/latest.zip"
-
+  },
+  {
+    "Author": "XiYu",
+    "Name": "PixelPerfectEx",
+    "Description": "A plugin that allows you to draw ring and line on player or target.",
+    "InternalName": "PixelPerfectEx",
+    "AssemblyVersion": "3.0.6.31",
+    "RepoUrl": "",
+    "ApplicableVersion": "any",
+    "Tags": [ "Ring", "TargetAssist", "XiYu" ],
+    "DalamudApiLevel": 10,
+    "Testing": false,
+    "InstalledFromUrl": null,
+    "Punchline": "hit box",
+    "DownloadLinkInstall": "https://github.com/Karlin-Z/DalamudPlugins/raw/main/plugins/PixelPerfectEx/latest.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkTesting": "https://github.com/Karlin-Z/DalamudPlugins/raw/main/plugins/PixelPerfectEx/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Karlin-Z/DalamudPlugins/raw/main/plugins/PixelPerfectEx/latest.zip",
+    "DownloadCount": 0,
+    "LastUpdated": "1618843696"
   }
 ]
