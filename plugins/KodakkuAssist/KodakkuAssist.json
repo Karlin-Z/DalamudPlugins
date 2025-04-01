@@ -5,7 +5,7 @@
   "AssemblyVersion": "0.4.4.0",
   "Description": "A toy.",
   "ApplicableVersion": "any",
-  "DalamudApiLevel": 11,
+  "DalamudApiLevel": 12,
   "LoadRequiredState": 0,
   "LoadSync": false,
   "CanUnloadAsync": false,
