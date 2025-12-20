@@ -27,7 +27,7 @@
     "Author": "Karlin",
     "Name": "KodakkuAssist",
     "InternalName": "KodakkuAssist",
-    "AssemblyVersion": "0.5.1.6",
+    "AssemblyVersion": "0.5.1.7",
     "Description": "A toy.",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
