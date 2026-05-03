@@ -51,7 +51,7 @@
     "RepoUrl": "",
     "ApplicableVersion": "any",
     "Tags": [ "Ring", "TargetAssist", "XiYu" ],
-    "DalamudApiLevel": 14,
+    "DalamudApiLevel": 15,
     "Testing": false,
     "InstalledFromUrl": null,
     "Punchline": "hit box",
