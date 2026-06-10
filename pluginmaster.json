@@ -27,7 +27,7 @@
     "Author": "Karlin",
     "Name": "KodakkuAssist",
     "InternalName": "KodakkuAssist",
-    "AssemblyVersion": "0.5.1.41",
+    "AssemblyVersion": "0.5.1.42",
     "Description": "A toy.",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
@@ -37,7 +37,7 @@
     "LoadPriority": 0,
     "Punchline": "A toy",
     "AcceptsFeedback": true,
-    "IconUrl": "https://raw.githubusercontent.com/Karlin-Z/DalamudPlugins/main/plugins/KodakkuAssist/icon.png",
+    "IconUrl": "https://raw.githubusercontent.com/Karlin-Z/DalamudPlugins/main/plugins/KodakkuAssist/iconKfk.png",
     "DownloadLinkInstall": "https://github.com/Karlin-Z/DalamudPlugins/raw/main/plugins/KodakkuAssist/latest.zip",
     "DownloadLinkTesting": "https://github.com/Karlin-Z/DalamudPlugins/raw/main/plugins/KodakkuAssist/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Karlin-Z/DalamudPlugins/raw/main/plugins/KodakkuAssist/latest.zip"
